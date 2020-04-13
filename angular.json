@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Ruben-Cli"
+    }
+  },
+  "defaultProject": "Ruben-Cli",
+  "cli": {
+    "analytics": "5991cda6-390c-499c-a68c-ca5506b1f645"
+  }
 }
